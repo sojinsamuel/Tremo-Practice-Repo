@@ -1,0 +1,1 @@
+https://api.open-meteo.com/v1/forecast?latitude=9.2463&longitude=76.6726&hourly=temperature_2m,relativehumidity_2m,dewpoint_2m,apparent_temperature,precipitation_probability,uv_index,uv_index_clear_sky&daily=weathercode,temperature_2m_max&current_weather=true&timezone=auto
